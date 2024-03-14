@@ -2,11 +2,11 @@
     "clientVersionCode": 101,
     "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://141.11.159.184/game.zip",
-    "URL_GAME_FILES_UPD" : "http://141.11.159.154/files_upd.zip",
+    "URL_GAME_FILES_UPD" : "http://141.11.159.184/files_upd.zip",
     "URL_VK": "",
     "URL_DISCORD": "",
     "URL_YOUTUBE": "",
     "URL_FORUM": "",
     "URL_DONATE": "",
-    "URL_CLIENT": "http://141.11.159.154/client.apk"
+    "URL_CLIENT": "http://141.11.159.184/client.apk"
 }
