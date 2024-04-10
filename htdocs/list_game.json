@@ -1,0 +1,18 @@
+{
+    "files": [
+        {
+            "name": "NickName.ini",
+            "size": 2014,
+            "path": "SAMP/NickName.ini",
+            "url": "http://45.83.207.18/api_2.0/files/SAMP/NickName.ini",
+            "gpu": "all"
+        },
+        {
+            "name": "anim.img",
+            "size": 10942464,
+            "path": "anim/anim.img",
+            "url": "http://45.83.207.18/api_2.0/files/anim/anim.img",
+            "gpu": "all"
+        }
+    ]
+}

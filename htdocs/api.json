@@ -1,0 +1,5 @@
+{
+    "url_launcher": "http://192.168.1.74/app-debug.apk",
+    "version_launcher": "1",
+    "url_game": "http://192.168.1.74/list_game.json"
+}
